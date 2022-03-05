@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/yangshengaa/artifact-directory-template.git",
+    "project-repository": "https://github.com/yangshengaa/dynamic_stock_industry_classification.git",
+    "dockerhub-repository": "yangshengaa/finance-base:latest",
+    "project-website-url": "https://yangshengaa.github.io/dynamic_stock_industry_classification/",
+    "project-website-code": "https://github.com/yangshengaa/dynamic_stock_industry_classification.git"
 }

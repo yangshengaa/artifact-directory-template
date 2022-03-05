@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Dynamic Stock Industry Classification
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Use Graph-based Analysis to Re-classify Stocks in China A-share and Improve Markowitz Portfolio Optimization
